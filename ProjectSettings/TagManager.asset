@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - Asteroid
+  - Spaceship
+  - Shield
+  - Laser
+  - UILaser
+  - GameOverCanvas
+  - HealthBar
+  - GameCanvas
+  - BigAsteroid
+  - EnemyShip
+  - EnemyWeapon
+  - Dash
+  - UIShield
+  - UIDash
+  - AsteroidPS
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Spaceship
+  - Shield
+  - Laser
+  - PowerupLaser
+  - Asteroid
+  - EnemyShip
+  - EnemyWeapon
+  - IgnoreLight
+  - ColliderShieldActive
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
